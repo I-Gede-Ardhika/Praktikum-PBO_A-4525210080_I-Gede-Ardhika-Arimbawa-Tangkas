@@ -6,7 +6,7 @@
 | **NPM** | 4525210080 |
 | **Kelas** | A |
 | **Mata Kuliah** | Pemrograman Berbasis Objek (PBO) |
-| **Pertemuan** | 4 - Inheretence |
+| **Pertemuan** | 4 - Inheritence |
 | **Tanggal** | 17 September 2026 |
 
 ---
@@ -81,4 +81,4 @@
 
 # 2. Kesimpulan
 
-> [class pegawai merupakan class induk untuk class lainnya melalui inheretence (class pegawai(nama anak class) extends Pegawai)]
+> [class pegawai merupakan class induk untuk class lainnya melalui inheritence (class pegawai(nama anak class) extends Pegawai)]
